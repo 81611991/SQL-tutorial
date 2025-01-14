@@ -3,4 +3,5 @@ DQL:
       The commands of SQL that are used to retrieve data from the database are collectively called as DQL.
       So all Select statements comes under DQL
 DML:
-
+The command of SQL that are used to insert data into the database, modify the data of the database and to delete data from te database 
+are collectively called as DML 
