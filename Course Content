@@ -5,3 +5,4 @@ DQL:
 DML:
 The command of SQL that are used to insert data into the database, modify the data of the database and to delete data from te database 
 are collectively called as DML 
+Truncate is not DML command
